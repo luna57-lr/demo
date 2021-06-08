@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="huyj@192.168.5.207:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="huyj">
+        <serverdata>
+          <mappings>
+            <mapping deploy="ai_homework/lenet" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="huyj@192.168.5.207:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="huyj@192.168.5.207:22 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/huyj/aihomework" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liaor@192.168.5.205:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/liaor/rnn/d2l" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="liaor@47.108.143.34:3135">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
